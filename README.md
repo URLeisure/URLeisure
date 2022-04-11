@@ -5,15 +5,15 @@
 
 **我也将文章整理到了[Data_Structure_And_Algorithm-Review](https://github.com/URLeisure/Data_Structure_And_Algorithm-Review)**，如果喜欢，大家可以fork到自己的仓库，和我一起学习，别忘了给个star！
 
-目前CSDN的文章顺序是由**简单->困难**和**高频->低频**两条线混合构成的。
+目前 CSDN 的文章顺序是由**简单->困难**和**高频->低频**两条线混合构成的。
 
-GitHub中是按照**分类**组建的目录。
+GitHub 中是按照**分类**组建的目录。
 
 所有的内容都是由 c++ 和 java 共同实现。
 
 >由于个人接触编程时间并不长（一年多吧），文章内容可能会出现些许错误。如果有大佬看到，还望斧正。
 >
->联系邮箱：LChenSED@163.COM
+>联系邮箱：URLeisure@163.COM
 
 ## 
 
