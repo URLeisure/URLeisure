@@ -17,7 +17,7 @@ GitHub 中是按照**分类**组建的目录。
 
 ## 
 
-**学院任务相关代码在这儿->[School_Task-Code](https://github.com/URLeisure/School_Task-Code)**，仅供参考，你要是直接 Ctrl+c 加 Ctrl+v 老师会骂我的 ┭┮﹏┭┮
+**这学期数据结构作业->[School_Task-Code](https://github.com/URLeisure/Data_Structure_And_Algorithm-Homework)**，仅供参考，你要是直接 Ctrl+c 加 Ctrl+v 就完蛋了 ┭┮﹏┭┮
 
 <!--
 **URLeisure/URLeisure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
