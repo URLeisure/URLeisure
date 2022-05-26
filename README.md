@@ -19,7 +19,7 @@ GitHub 中是按照**分类**组建的目录。
 
 **这学期数据结构作业->[Data_Structure_And_Algorithm-Homework](https://github.com/URLeisure/Data_Structure_And_Algorithm-Homework)**，仅供参考，你要是直接 Ctrl+c 加 Ctrl+v 就完蛋了 🤔
 
-* 如果想换种阅读体验，可以关注我的**公众号**：**URLeisure的复习仓库**
+* 如果想换种阅读体验，可以关注我的微信**公众号**：**URLeisure的复习仓库**
 
 ![image](https://user-images.githubusercontent.com/77525267/170495037-0beac1ae-d1d9-4236-8a68-32ab1095e33c.png)
 
