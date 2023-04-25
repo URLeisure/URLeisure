@@ -17,16 +17,16 @@ GitHub 中是按照**分类**组建的目录。
 
 ## 
 
-**大二下的数据结构作业->[Data_Structure_And_Algorithm-Homework](https://github.com/URLeisure/Data_Structure_And_Algorithm-Homework)**，仅供参考
+**大二下数据结构作业->[Data_Structure_And_Algorithm-Homework](https://github.com/URLeisure/Data_Structure_And_Algorithm-Homework)**，仅供参考
 
 
-**大三下的服务器开发技术课堂代码->[MyServer](https://github.com/URLeisure/MyServers)**，仅供参考
+**大三下服务器开发技术课堂代码->[MyServer](https://github.com/URLeisure/MyServers)**，仅供参考
 
 
-**大三下的服务器开发技术第一次项目->[高校毕业论文管理系统]()**，仅供参考
+**大三下服务器开发技术第一次项目->[高校毕业论文管理系统]()**，仅供参考
 
 
-**大三下的 JSP 程序设计课后作业（含实例）代码->[MyJSP](https://github.com/URLeisure/MyJSP)**，仅供参考
+**大三下 JSP 程序设计课后作业（含实例）代码->[MyJSP](https://github.com/URLeisure/MyJSP)**，仅供参考
 
 
 
