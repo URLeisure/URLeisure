@@ -22,6 +22,9 @@ GitHub 中是按照**分类**组建的目录。
 
 **大三下的服务器开发技术课堂代码->[MyServer](https://github.com/URLeisure/MyServers)**，仅供参考
 
+
+**大三下的 JSP 程序设计课后作业（实例）代码->[MyJSP](https://github.com/URLeisure/MyJSP)**，仅供参考
+
 * 如果想换种阅读体验，可以关注我的微信**公众号**：**URLeisure的复习仓库**
 
 ![image](https://user-images.githubusercontent.com/77525267/170495037-0beac1ae-d1d9-4236-8a68-32ab1095e33c.png)
